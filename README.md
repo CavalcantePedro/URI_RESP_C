@@ -15,3 +15,5 @@ Caso queira discutir sobre algum código, ou solicitar ajuda pode me contatar.
   [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedr0cavalcante/)
   [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.ricardo@academico.ufpb.br)
 </div>
+
+---
