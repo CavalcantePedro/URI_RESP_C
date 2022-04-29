@@ -1,10 +1,10 @@
 # URI_RESP_C
 ---
-### 👀 Sobre o reposiório:
+### 👀 Sobre o repositório:
 
 Este repositório foi criado para armazenar as soluções, em linguagem c, dos exercícios presentes na plataforma de aprendizado UriOnlineJudge.</br>
 
-Sinta-se a vontade para utilizar os códigos deste repositório para fins de aprendizem.
+Sinta-se a vontade para utilizar os códigos deste repositório para fins de aprendizagem.
 
 ### 🌍 Onde me encontrar:
 
